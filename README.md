@@ -12,7 +12,8 @@ I created this Python script over the course of two days. This script simply tak
 6. Once you receive the email with your data file, download your data file. 
 7. Open the ZIP file and then go into the folder named "followers_and_following".
 8. From here, copy the files named "followers.json" and "following.json".
-9. Paste these two files in the folder named "files" that's in this directory.
-10. Simply run the python file named "igfollowerchecker.py". It will run and create a .txt file named "notfollowing.txt". In this file it will display all the people that are not following you back.
+9. Now create a folder named "files" inside the same directory of "igfollowerchecker.py"
+10. Paste these two files in the folder named "files".
+11. Simply run the python file named "igfollowerchecker.py". It will run and create a .txt file named "notfollowing.txt". In this file it will display all the people that are not following you back.
 
 Hope you enjoy!
